@@ -1,2 +1,2 @@
 // Deletes a document by match
-db.school.delete({ name: "ALX School" })
+db.school.deleteMany({ name: "ALX School" })
