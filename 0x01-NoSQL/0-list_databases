@@ -1,2 +1,2 @@
 // Shows all available databases
-show dbs
+show databases
