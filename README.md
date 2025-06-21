@@ -1,1 +1,1 @@
-This repository contains MongoDB-based tasks for the ALX Software Engineering Backend Specialization. It focuses on working with NoSQL storage, particularly MongoDB, to explore document-based storage, aggregation, indexing, and CRUD operations.
+Advanced Database topics such as advanced mysql and nosql databases particularly mongodb
